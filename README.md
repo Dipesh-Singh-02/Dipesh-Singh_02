@@ -1,23 +1,60 @@
-<h1 align="center">Hi 👋, I'm Dipesh Singh</h1>
-<h3 align="center">A passionate Data science from India</h3>
+<h1 align="center">Hey there! I'm Dipesh 👨‍💻</h1>
+<h3 align="center">🚀 Data Science Student | Pythonic Thinker | Futuristic Coder</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dipesh-singh-02&label=Profile%20views&color=0e75b6&style=flat" alt="dipesh-singh-02" /> </p>
+---
 
-- 💬 Ask me about **Javascript**
+### 🧠 About Me:
+- 🎓 B.Tech CSE (Specialization in Data Science)
+- 💡 Passionate about Machine Learning, AI, and real-world tech
+- 🛠️ Futuristic mind — I turn logic into creative code
+- 🔁 Currently learning: Advanced Python, APIs, Deep Learning, Kivy
+- 🛰️ Believer in the power of data + automation
 
-- 📫 How to reach me **dipeshlathiya485@gmail.com**
+---
 
-- ⚡ Fun fact **💡 Fun Fact: My code runs... eventually 😅**
+### 🛠️ Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/dipesh-singh-553907374" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/dipesh-singh-553907374" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_elxx_dipesh_02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_elxx_dipesh_02/" height="30" width="40" /></a>
+| Languages     | Frameworks/Tools       | Data Tools           | Others              |
+|---------------|------------------------|----------------------|---------------------|
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | Kivy, Flask, KivyMD | Pandas, NumPy, Matplotlib | Git, GitHub, VS Code |
+| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | Markdown, Bootstrap | Excel, CSV parsing  | API integration     |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dipesh-Singh-02&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dipesh-Singh-02&theme=tokyonight" width="48%"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipesh-singh-02&show_icons=true&locale=en&layout=compact" alt="dipesh-singh-02" /></p>
+### 🔗 Connect With Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipesh-singh-02&show_icons=true&locale=en" alt="dipesh-singh-02" /></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/dipesh-singh-553907374/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Dipesh%20Singh-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  &nbsp;
+  <a href="mailto:dipeshlathiya485@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-dipeshlathiya485@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/_elxx_dipesh_02/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@_elxx_dipesh_02-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+</p>
+
+---
+
+### 🚧 Projects in Progress
+
+- 🤖 **Joke App** – KivyMD + TTS + English/Hindi jokes API  
+- 📈 **Student Performance Predictor** – scikit-learn ML model  
+- 🔐 **Personal Portfolio Website** – Coming soon...
+
+---
+
+### ⚡ Fun Fact
+> I debug life the same way I debug code — with print statements and caffeine 😅☕
